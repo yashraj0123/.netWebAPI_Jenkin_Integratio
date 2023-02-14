@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yashraj01\\Desktop\\yash-raj\\YashRaj_3190833_finalTest\\WebApplication\\WebApplication\\WebApplication.csproj": {}
+    "C:\\Users\\yashraj01\\Desktop\\.netWebAPI_Jenkin_Integratio\\WebApplication\\WebApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yashraj01\\Desktop\\yash-raj\\YashRaj_3190833_finalTest\\WebApplication\\WebApplication\\WebApplication.csproj": {
+    "C:\\Users\\yashraj01\\Desktop\\.netWebAPI_Jenkin_Integratio\\WebApplication\\WebApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yashraj01\\Desktop\\yash-raj\\YashRaj_3190833_finalTest\\WebApplication\\WebApplication\\WebApplication.csproj",
+        "projectUniqueName": "C:\\Users\\yashraj01\\Desktop\\.netWebAPI_Jenkin_Integratio\\WebApplication\\WebApplication.csproj",
         "projectName": "WebApplication",
-        "projectPath": "C:\\Users\\yashraj01\\Desktop\\yash-raj\\YashRaj_3190833_finalTest\\WebApplication\\WebApplication\\WebApplication.csproj",
+        "projectPath": "C:\\Users\\yashraj01\\Desktop\\.netWebAPI_Jenkin_Integratio\\WebApplication\\WebApplication.csproj",
         "packagesPath": "C:\\Users\\yashraj01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yashraj01\\Desktop\\yash-raj\\YashRaj_3190833_finalTest\\WebApplication\\WebApplication\\obj\\",
+        "outputPath": "C:\\Users\\yashraj01\\Desktop\\.netWebAPI_Jenkin_Integratio\\WebApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -85,24 +85,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.10, 3.1.10]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.32, 3.1.32]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[3.1.0, 3.1.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[3.1.0, 3.1.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"

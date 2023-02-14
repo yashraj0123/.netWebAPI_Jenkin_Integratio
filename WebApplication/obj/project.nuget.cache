@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FImD5n/CZYCRh9cuC2qlVrPPbw0+QW6B350mRiGcYuxXuodm2leS20I/yD91KyNGSsmMRUCLXGLpTTHhlvUZZw==",
+  "dgSpecHash": "8CzxmsW3u/+RHuMdD1gO1w5MWK1GIjoStyE28S+yFA9tndxNkwsuStCaomXKYtFFux388lAgUFvkuxu+iB403A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yashraj01\\Desktop\\yash-raj\\YashRaj_3190833_finalTest\\WebApplication\\WebApplication\\WebApplication.csproj",
+  "projectFilePath": "C:\\Users\\yashraj01\\Desktop\\.netWebAPI_Jenkin_Integratio\\WebApplication\\WebApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yashraj01\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.0.0\\microsoft.aspnetcore.authentication.abstractions.2.0.0.nupkg.sha512",
     "C:\\Users\\yashraj01\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.0.0\\microsoft.aspnetcore.authentication.core.2.0.0.nupkg.sha512",
@@ -138,11 +138,7 @@
     "C:\\Users\\yashraj01\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\yashraj01\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\yashraj01\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\yashraj01\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "C:\\Users\\yashraj01\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\yashraj01\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\yashraj01\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\yashraj01\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+    "C:\\Users\\yashraj01\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }
